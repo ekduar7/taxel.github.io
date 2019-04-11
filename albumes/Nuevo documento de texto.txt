@@ -1,0 +1,15 @@
+un mamifero 
+es un tipo de animal 
+que da leche y  tiene pelo
+
+
+
+una ballena es tipo de mamifero 
+que tiene piel y vive en el mar
+
+el tigre es un tipo de mamifero que comer carne
+
+el ave es un tipo de animal que tiene plumas vuela bien y pone huevos 
+
+el avestrus es un tipo de ave que tiene patas largas y no vuela.
+
